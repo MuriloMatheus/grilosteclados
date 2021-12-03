@@ -1,0 +1,278 @@
+#cabeçalho{
+    display: flex;
+    background-color: green;
+    margin: -8px;
+    border-left: 100px;
+}
+
+#nome{
+    text-justify: inherit;
+    margin-right: 25px;
+}
+
+#logo{
+    margin: -60px;
+    border: 0px;
+    padding: 75px;
+    height: 100px;
+    width: 200px;
+}
+
+#pesquisar {
+    padding-top: 6px;
+    padding-left: 35px;
+    display: flex;
+    height: 40px;
+    width: 700px;
+    margin-top: 37px;
+    margin-left: 160px;
+}
+
+#botao1{
+    padding-top: 35px;
+    margin-left: 150px;
+    display: flex;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#botao2{
+    padding-top: 35px;
+    margin-left: 25px;
+    display: flex;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#carrinhoimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#contaimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#outrasPag{
+    display: flex;
+    background-color: greenyellow;
+    margin: -8px;
+}
+
+#pI{
+    display: flex;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 575px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#pCP{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#pS{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#cadastro{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+#np{
+    height: 25px;
+    width: 500px;
+}
+
+#pre{
+    margin-left: 300px;
+}
+
+#preço{
+    height: 25px;
+    width: 500px;
+}
+
+#des{
+    margin-left: 300px;
+}
+
+#descriçao{
+    height: 100px;
+    width: 500px;
+}
+
+#cat{
+    margin-left: 300px;
+}
+
+#categoria{
+    height: 25px;
+    width: 500px;
+}
+
+#ende{
+    margin-left: 300px;
+}
+
+#endimg{
+    height: 25px;
+    width: 500px;
+}
+
+#cdr{
+    margin-left: 300px;
+    margin-top: 50px;
+    height: 30px;
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+#novadiv{
+    background-color: rgb(214, 213, 213);
+    border: 1px solid black;
+    margin-left: 1000px;
+    margin-right: 200px;
+    margin-top: -600px;
+    margin-bottom: 500px;
+}
+
+.altErel{
+    margin-left: 50px;
+}
+
+.p{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+#rodape{
+    background-color: green;
+    display:flex;
+    margin: -8px;
+}
+
+#devs{
+    display: flex;
+    margin-left: 605px;
+    margin-right: 3px;
+}
+
+#bV{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#email{
+    display: flex;
+}
+
+#logoEML{
+    display: flex center;
+    height: 20px;
+    width: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#insta{
+    display: flex;
+
+}
+
+#logoInsta{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#face{
+    display: flex;
+
+}
+
+#logoFace{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tt{
+    display: flex;
+
+}
+
+#logoTT{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tlt1{
+    margin-left: 350px;
+}
+
+#pag1{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+.pagamento{
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#pag2{
+    display: flex;
+    margin-left: 300px;
+}
+
+#certificado{
+    display: flex;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+
+#certi{
+    display: block;
+    margin-left: 350px;
+}
+
+.cert{
+    width: 95px;
+    height: 90px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#a{
+    margin-left: 900px;
+    margin-top: -150px;
+}

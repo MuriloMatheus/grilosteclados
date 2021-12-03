@@ -1,0 +1,386 @@
+#cabeçalho{
+    display: flex;
+    background-color: green;
+    margin: -8px;
+    border-left: 100px;
+}
+
+#nome{
+    text-justify: inherit;
+    margin-right: 25px;
+}
+
+#logo{
+    margin: -60px;
+    border: 0px;
+    padding: 75px;
+    height: 100px;
+    width: 200px;
+}
+
+#pesquisar {
+    padding-top: 6px;
+    padding-left: 35px;
+    display: flex;
+    height: 40px;
+    width: 700px;
+    margin-top: 37px;
+    margin-left: 160px;
+}
+
+#botao1{
+    padding-top: 35px;
+    margin-left: 150px;
+    display: flex;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#botao2{
+    padding-top: 35px;
+    margin-left: 25px;
+    display: flex;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#carrinhoimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#contaimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#outrasPag{
+    display: flex;
+    background-color: greenyellow;
+    margin: -8px;
+}
+
+#pI{
+    display: flex;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 575px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#pCP{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#pS{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#produtos{
+    margin-right: 600px;
+    border: 1px solid black;
+}
+
+.quantidade{
+    height: 50px;
+    width: 50px;
+}
+
+.nome{
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+.val{
+    font-size: 20px;
+    color: green;
+}
+
+#p1{
+    display: flex;
+    border-top: 1px solid black;
+}
+
+#p2{
+    display: flex;
+    border-top: 1px solid black;
+}
+
+#p3{
+    display: flex;
+    border-top: 1px solid black;
+}
+
+#p4{
+    display: flex;
+    border-top: 1px solid black;
+}
+
+#endereço{
+    margin-top: 50px;
+}
+
+#ende{
+    height: 25px;
+    width: 500px;
+}
+
+#resumo{
+    background-color: rgb(212, 212, 212);
+    border: 1px solid black;
+    margin-left: 950px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+
+#qtd{
+    display: flex;
+    margin-left: 10px;
+}
+
+#quant1{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 17px;
+    font-size: 20px;
+}
+
+#quant2{
+    margin-left: 215px;
+    margin-right: 252px;
+    margin-top: 17px;
+    font-size: 20px;
+}
+
+#quant3{
+    margin-left: 248px;
+    margin-right: 252px;
+    margin-top: 17px;
+    font-size: 20px;
+}
+
+#quant4{
+    margin-left: 240px;
+    margin-right: 250px;
+    margin-top: 17px;
+    font-size: 20px;
+}
+
+#preço4{
+    margin-left: 200px;
+    font-size: 15px;
+    color: green;
+}
+
+#frete{
+    display: flex;
+    margin-top: -25px;
+    margin-left: 12px;
+}
+
+#preçFrete{
+    margin-left: 250px;
+    font-size: 15px;
+    color: green;
+}
+
+#desconto{
+    display: flex;
+    margin-top: -25px;
+    margin-left: 12px;
+}
+
+#valcup{
+    margin-left: 160px;
+    font-size: 15px;
+    color: green;
+}
+
+#total{
+    display: flex;
+    border-top: 1px solid black;
+    margin-left: 10px;
+}
+
+#valTot{
+    margin-left: 200px;
+    font-size: 20px;
+    color: green;
+}
+
+#resumo{
+    margin-right: 190px;
+    margin-top: -380px;
+}
+
+#res{
+    margin-left: 10px;
+}
+
+#pagamento{
+    background-color: rgb(212, 212, 212);
+    border: 1px solid black;
+    margin-left: 950px;
+    margin-right: 190px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+#forma{
+    margin-left: 10px;
+}
+
+#boleto{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#pix{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#cartao{
+    margin-left: 10px;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+#fim{
+    background-color: rgba(0, 192, 0, 0.671);
+    margin-left: 75px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#rodape{
+    background-color: green;
+    display:flex;
+    margin: -8px;
+}
+
+#devs{
+    display: flex;
+    margin-left: 605px;
+    margin-right: 3px;
+}
+
+#bV{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#email{
+    display: flex;
+}
+
+#logoEML{
+    display: flex center;
+    height: 20px;
+    width: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#insta{
+    display: flex;
+
+}
+
+#logoInsta{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#face{
+    display: flex;
+
+}
+
+#logoFace{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tt{
+    display: flex;
+
+}
+
+#logoTT{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tlt1{
+    margin-left: 350px;
+}
+
+#pag1{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+.pagamento{
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#pag2{
+    display: flex;
+    margin-left: 300px;
+}
+
+#certificado{
+    display: flex;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+
+#certi{
+    display: block;
+    margin-left: 350px;
+}
+
+.cert{
+    width: 95px;
+    height: 90px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#a{
+    margin-left: 900px;
+    margin-top: -150px;
+}

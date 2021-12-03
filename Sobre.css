@@ -1,0 +1,316 @@
+#cabeçalho{
+    display: flex;
+    background-color: green;
+    margin: -8px;
+    border-left: 100px;
+}
+
+#nome{
+    text-justify: inherit;
+    margin-right: 25px;
+}
+
+#logo{
+    margin: -60px;
+    border: 0px;
+    padding: 75px;
+    height: 100px;
+    width: 200px;
+}
+
+#pesquisar {
+    padding-top: 6px;
+    padding-left: 35px;
+    display: flex;
+    height: 40px;
+    width: 700px;
+    margin-top: 37px;
+    margin-left: 160px;
+}
+
+#botao1{
+    padding-top: 35px;
+    margin-left: 150px;
+    display: flex;
+    background-size: cover;
+}
+
+#botao2{
+    padding-top: 35px;
+    margin-left: 25px;
+    display: flex;
+    background-size: cover;
+}
+
+#carrinhoimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#contaimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#outrasPag{
+    display: flex;
+    background-color: greenyellow;
+    margin: -8px;
+}
+
+#pI{
+    display: flex;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 575px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#pCP{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#pS{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#tlt{
+    background-color: chartreuse;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#tresinfo{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+#sbr{
+    margin-top: 50px;
+}
+
+#s{
+    margin-left: 5px;
+    text-align: center;
+}
+
+#sb{
+    font-size: 22px;
+    text-align: center;
+    margin-left: 5px;
+}
+
+#m{
+    margin-left: 250px;
+}
+
+#ms{
+    font-size: 17px;
+    text-align: center;
+    margin-left: 5px;
+    padding-right: 300px;
+}
+
+#v{
+    margin-left: -47px;
+}
+
+#vs{
+    font-size: 20px;
+    text-align: center;
+    margin-left: -280px;
+    padding-right: 30px;
+}
+
+#vl{
+    margin-left: 720px;
+}
+
+#val{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5px;
+    margin-bottom: 100px;
+}
+
+
+#dev1{
+    display: flex;
+    margin-left: -750px;
+    margin-bottom: 100px;
+    padding-right: -300px;
+}
+
+#murilo{
+    width: 120px;
+    height: 100px;
+    margin-left: 500px;
+}
+
+#dev2{
+    display: flex;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    border-left: 10px;
+}
+
+#diogo{
+    width: 120px;
+    height: 100px;
+    margin-left: 500px;
+}
+
+#textos{
+    display: flex;
+    margin-top: -100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+
+#murtxt{
+    text-align: center;
+}
+
+#murdes{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#diotxt{
+    margin-left: 200px;
+}
+
+#diodes{
+    padding-right: 150px;
+}
+
+#rodape{
+    background-color: green;
+    display:flex;
+    margin: -8px;
+}
+
+#devs{
+    display: flex;
+    margin-left: 605px;
+    margin-right: 3px;
+}
+
+#bV{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#email{
+    display: flex;
+}
+
+#logoEML{
+    display: flex center;
+    height: 20px;
+    width: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#insta{
+    display: flex;
+
+}
+
+#logoInsta{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#face{
+    display: flex;
+
+}
+
+#logoFace{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tt{
+    display: flex;
+
+}
+
+#logoTT{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tlt1{
+    margin-left: 350px;
+}
+
+#pag1{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+.pagamento{
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#pag2{
+    display: flex;
+    margin-left: 300px;
+}
+
+#certificado{
+    display: flex;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+
+#certi{
+    display: block;
+    margin-left: 350px;
+}
+
+.cert{
+    width: 95px;
+    height: 90px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#a{
+    margin-left: 900px;
+    margin-top: -150px;
+}

@@ -1,0 +1,313 @@
+#cabeçalho{
+    display: flex;
+    background-color: green;
+    margin: -8px;
+    border-left: 100px;
+}
+
+#nome{
+    text-justify: inherit;
+    margin-right: 25px;
+}
+
+#logo{
+    margin: -60px;
+    border: 0px;
+    padding: 75px;
+    height: 100px;
+    width: 200px;
+}
+
+#pesquisar {
+    padding-top: 6px;
+    padding-left: 35px;
+    display: flex;
+    height: 40px;
+    width: 700px;
+    margin-top: 37px;
+    margin-left: 160px;
+}
+
+#botao1{
+    padding-top: 35px;
+    margin-left: 150px;
+    display: flex;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#botao2{
+    padding-top: 35px;
+    margin-left: 25px;
+    display: flex;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#carrinhoimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#contaimg{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+
+#outrasPag{
+    display: flex;
+    background-color: greenyellow;
+    margin: -8px;
+}
+
+#pI{
+    display: flex;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 575px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#pCP{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#pS{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#verproduto{
+    display: flex;
+}
+
+#imgproduto{
+    height: 300px;
+    width: 550px;
+    margin-right: 50px;
+}
+
+#valbot{
+    margin-left: 400px;
+    display: flex;
+}
+
+#comprar{
+    margin-left: 25px;
+    margin-top: 10px;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+}
+
+#rel{
+    margin-top: 100px;
+    margin-left: 290px;
+}
+
+#set1{
+    margin-left: 300px;
+    margin-top: 125px;
+    margin-bottom: 300px;
+    border: 1px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+#set2{
+    margin-left: 50px;
+    margin-top: 125px;
+    margin-bottom: 300px;
+    border: 1px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+#produtosl2{
+    display: flex;
+}
+
+#pro5{
+    background-color: white;
+    height: 75px;
+    width: 150px;
+}
+
+#bpro5{
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+#pro6{
+    background-color: white;
+    height: 75px;
+    width: 150px;
+}
+
+#bpro6{
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+#pro7{
+    background-color: white;
+    height: 75px;
+    width: 150px;
+}
+
+#bpro7{
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+#pro8{
+    background-color: white;
+    height: 75px;
+    width: 150px;
+}
+
+#bpro8{
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+
+#rodape{
+    background-color: green;
+    display:flex;
+    margin: -8px;
+}
+
+#devs{
+    display: flex;
+    margin-left: 605px;
+    margin-right: 3px;
+}
+
+#bV{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#email{
+    display: flex;
+}
+
+#logoEML{
+    display: flex center;
+    height: 20px;
+    width: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#insta{
+    display: flex;
+
+}
+
+#logoInsta{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#face{
+    display: flex;
+
+}
+
+#logoFace{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tt{
+    display: flex;
+
+}
+
+#logoTT{
+    display: flex center;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#tlt1{
+    margin-left: 350px;
+}
+
+#pag1{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+.pagamento{
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#pag2{
+    display: flex;
+    margin-left: 300px;
+}
+
+#certificado{
+    display: flex;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+
+#certi{
+    display: block;
+    margin-left: 350px;
+}
+
+.cert{
+    width: 95px;
+    height: 90px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#a{
+    margin-left: 900px;
+    margin-top: -150px;
+}
